@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatPrep</string>
+    <string name="api_key">nujtwpkcvpf9</string>
+    <string name="confirm">Confirm</string>
+    <string name="login">Login</string>
+    <string name="your_name">Your name</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="error_username_too_short">The username must be at least %d characters long.</string>
+    <string name="channel_created">Channel created</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="choose_channel_name">Choose a channel name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+</resources>
